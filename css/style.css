@@ -1,0 +1,20 @@
+body {
+    color: #1c1c20;
+    font-family: 'Oxygen', sans-serif;
+}
+
+.navbar {
+    border: 0;
+    border-radius: 0;
+}
+
+.navbar-default .navbar-brand{
+    color: #1c1c20;
+}
+
+section
+{
+    border: 1px solid #fff;
+    margin-top: 7%;
+    margin-bottom: 3%;
+}
